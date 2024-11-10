@@ -1,10 +1,4 @@
-<div align="center" style="background: rgba(255, 255, 255, 0.2); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px;">
-  <h1 align="center">Hola, soy <a href="https://www.rorodev.com" style="color: #00BFFF; text-shadow: 2px 2px 4px #000;">RoroDev</a> 👋</h1>
-  <p>Bienvenido a mi GitHub</p>
-
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-antony-trejo-lozano-7637882a6)
-  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigotrejolozano)
-   [![WEB](https://img.shields.io/badge/web-000000?style=for-the-badge&word=global&logoColor=white)](https://www.rorodev.com)
+<div align="center" style="background: rgba(255, 255, 255, 0.2); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px;"> <h1 align="center">Hola, soy <a href="https://www.rorodev.com" style="color: #00BFFF; text-shadow: 2px 2px 4px #000;" target="_blank">RoroDev</a> 👋</h1> <p>Bienvenido a mi GitHub</p> <a href="https://www.linkedin.com/in/rodrigo-antony-trejo-lozano-7637882a6" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"> </a> <a href="https://github.com/rodrigotrejolozano" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.rorodev.com" target="_blank"> <img src="https://img.shields.io/badge/web-000000?style=for-the-badge&word=global&logoColor=white" alt="WEB"> </a> 
 </div>
 
 ## Sobre mí
@@ -14,7 +8,7 @@
 - 📲 Back End developer
 - 📲 Full Stack developer
 - ✏️ Ingeniero de Sistemas
-- 📲 Portafolio en [RoroDev](https://www.rorodev.com)
+- 📲 Portafolio en <a href="https://www.rorodev.com" target="_blank">RoroDev</a>
 
 <br>
 
